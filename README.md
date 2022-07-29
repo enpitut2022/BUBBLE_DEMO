@@ -5,7 +5,7 @@ Product Name：BUBBLE
 Miro：  
 [Here](https://miro.com/app/board/uXjVOnEs5bU=/)  
 URL for Service:  
-[Here](https://bubble-amenochidoragon.herokuapp.com/)
+[Here](https://bubble-amedora-demo.herokuapp.com/)
 
 
 
